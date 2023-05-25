@@ -1,8 +1,26 @@
-# ui
+# Simple One Day shoes store Ui
 
 A new Flutter project.
 
 ## Getting Started
+
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='shoes store1.png'>
+  </td>
+  <td style='width:24%;'>
+  <img style='width:100%;' src='shoes store2.png'>
+  </td>
+</table>
+
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='shoes store4.png'>
+  </td>
+  <td style='width:24%;'>
+   <img style='width:100%;' src='shoes store5.png'>
+  </td>
+</table>
 
 This project is a starting point for a Flutter application.
 
