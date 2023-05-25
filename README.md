@@ -1,4 +1,4 @@
-# Simple One Day shoes store Ui
+# Simple Half Day shoes store Ui
 
 A new Flutter project.
 
@@ -11,7 +11,7 @@ A new Flutter project.
   <td style='width:24%;'>
   <img style='width:100%;' src='shoes store2.png'>
   </td>
-  <td style='width:24%;'>
+   <td style='width:24%;'>
   <img style='width:100%;' src='shoes store3.png'>
   </td>
 </table>
